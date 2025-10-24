@@ -1,6 +1,6 @@
 # Welcome to my profile! 👋
 
-![silverwolf](https://tenor.com/MTEEzQbCFa.gif)
+![silverwolf](https://github.com/user-attachments/assets/015f3490-cc78-42e1-af69-2a3ee0817cf7)
 
 ## Hi, my name is Teddi and I'm currently a GIT Full-Stack Web Development student at Arizona State University! :computer:
 ---
